@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taimu</h1>
 <h3 align="center">software developer</h3>
 
-- 🔭 I’m currently working on [BRANU](https://branu.jp/)
+- 🔭 I’m currently working on [RECRUIT](https://www.recruit.co.jp/)
 
 
 <h3 align="left">Languages and Tools:</h3>
